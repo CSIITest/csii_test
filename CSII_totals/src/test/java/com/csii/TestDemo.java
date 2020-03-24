@@ -1,5 +1,7 @@
 package com.csii;
 
+import org.apache.commons.lang.StringUtils;
+
 public class TestDemo {
 
 	public static void main(String[] args) {
@@ -12,6 +14,8 @@ public class TestDemo {
 		string = "000";
 		
 		System.out.println(string);
+		
+	//	StringUtils.isBlank(str)
 		
 		
 	}
