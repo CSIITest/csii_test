@@ -15,7 +15,7 @@ public class CsiiTotalsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CsiiTotalsApplication.class, args);
 		
-		logger1.info("本地启动成功");
+		logger1.info("本地启动成功____在线提交");
 	}
 
 }
